@@ -1,0 +1,8 @@
+{
+  "lab_slug": "nuevo_lab",
+  "lab_class_name": "NuevoLabParser",
+  "lab_display_name": "Nuevo Lab",
+  "detect_string": "NUEVO LAB",
+  "file_type": ["pdf", "excel"],
+  "priority": 5
+}
